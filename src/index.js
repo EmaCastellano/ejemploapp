@@ -4,8 +4,6 @@ import { styles	} from './styles';
 import { AddItem } from './components/index'
 import { ListItem } from './components/index'
 import { TaskItem } from './components/index'
-import { ModalItem } from './components/index'
-
 
 export default function App() {
 
